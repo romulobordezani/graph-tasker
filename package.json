@@ -1,0 +1,30 @@
+{
+  "name": "graph-tasker",
+  "version": "1.0.0",
+  "description": "graph-tasker ",
+  "private": true,
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulobordezani/graph-tasker.git"
+  },
+  "keywords": [
+    "graph",
+    "promises",
+    "child",
+    "chain"
+  ],
+  "engines": {
+    "node": "18.3.0"
+  },
+  "author": "romulo bordezani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romulobordezani/graph-tasker/issues"
+  },
+  "homepage": "https://github.com/romulobordezani/graph-tasker#readme"
+}

@@ -9,7 +9,7 @@ describe('Graph Tasker', () => {
     const activeQueue: Queue = [];
     const postponedQueue: Queue = [];
 
-    const result = await handleTaskExecution(TasksMock, activeQueue, postponedQueue)
+    const result = await handleTaskExecution(TasksMock, activeQueue, postponedQueue);
 
     return expect(result).toBe('peanut butter');
   });
